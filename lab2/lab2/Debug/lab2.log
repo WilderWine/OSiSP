@@ -1,0 +1,11 @@
+﻿  lab2.cpp
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(80,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(80,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(80,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(80,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(89,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(89,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(89,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(89,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(136): warning C4715: createNewProcedure: значение возвращается не при всех путях выполнения
+  lab2.vcxproj -> C:\c++\sem5\osisp\lab2\Debug\lab2.exe
