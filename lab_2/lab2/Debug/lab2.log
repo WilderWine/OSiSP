@@ -1,0 +1,13 @@
+﻿  lab2.cpp
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(29,36): warning C4805: ==: небезопасное смешение типа "BOOL" и типа "bool" в операции
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(82,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(179,48): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(179,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(179,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(179,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(188,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(188,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(188,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(188,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\c++\sem5\osisp\lab2\lab2\lab2.cpp(240): warning C4715: createNewProcedure: значение возвращается не при всех путях выполнения
+  lab2.vcxproj -> C:\c++\sem5\osisp\lab2\Debug\lab2.exe
