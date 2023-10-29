@@ -1,0 +1,3 @@
+﻿  lab5.cpp
+C:\c++\sem5\osisp\lab5\lab5\lab5.cpp(192): warning C4715: createNewProcedure: значение возвращается не при всех путях выполнения
+  lab5.vcxproj -> C:\c++\sem5\osisp\lab5\Debug\lab5.exe
