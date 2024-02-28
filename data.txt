@@ -1,0 +1,7 @@
+apple 155 15,267
+orange 75 256,3
+banana sdvj 468
+apple 66 256
+orange 33,2 45,24
+banana 478 22,23
+
